@@ -1,0 +1,3 @@
+Chile;The Quiet Man;5700;3.50;STEAM
+Brasil;Shadow of the Tomb Raider;3225;3.50;STEAM
+Alemania;Kingdom Hearts III;50000;3.50;FISICO
